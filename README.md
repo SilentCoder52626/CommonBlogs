@@ -1,4 +1,4 @@
-# fireblogs
+# Common Blogs
 
 ## Project setup
 ```
